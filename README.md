@@ -1,2 +1,4 @@
-# Number-guessing-game
-My Python final project for a number guessing game
+# Budget Calculator
+My Python final project is a budget calculator that helps users manage their money.
+
+
